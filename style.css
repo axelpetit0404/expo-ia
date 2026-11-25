@@ -1,5 +1,7 @@
 body{
     background-image: url("image/Capture d'écran 2026-11-25 150414.png");
     background-size: cover;
-    background-position: center 80%;
+    background-position: center;
+    min-height: 100vh;
+    color:aliceblue;
 }
