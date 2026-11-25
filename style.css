@@ -1,7 +1,11 @@
 body{
-    background-image: url("image/Capture d'écran 2026-11-25 150414.png");
+    background-image:linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)), 
+    url("image/Capture d'écran 2026-11-25 150414.png");
     background-size: cover;
     background-position: center;
     min-height: 100vh;
     color:aliceblue;
+}
+h1{
+    text-align: center;
 }
